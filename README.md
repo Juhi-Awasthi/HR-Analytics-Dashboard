@@ -8,7 +8,7 @@ This project helps organizations take **data-driven decisions** to improve emplo
 ## 📂 Files in this Repository
 - **HR_ANALYTICS_DASHBOARD.pbix** → Power BI dashboard file  
 - **HR_Analytics.csv** → Dataset used for building the dashboard  
-- **dashboard_preview.png** → (Optional) Screenshot/preview of the dashboard for quick viewing  
+- **dashboard_preview.png** →preview of the dashboard for quick viewing  
 
 ---
 
@@ -30,7 +30,7 @@ This dashboard provides key insights on:
 ---
 
 ## 📸 Dashboard Preview
-<img width="1330" height="747" alt="Screenshot 2025-09-13 183813" src="https://github.com/user-attachments/assets/850c503e-7524-42c2-906d-eebda70d052d" />
+<img width="1330" height="747" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/50dea3d6-4a7d-4b67-9883-818023a6fc75" />
 
 
 ---
