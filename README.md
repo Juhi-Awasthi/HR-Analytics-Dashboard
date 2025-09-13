@@ -1,4 +1,4 @@
-<img width="1330" height="747" alt="image" src="https://github.com/user-attachments/assets/522df722-c7c0-40f9-905d-7422099f0402" /># HR Analytics Dashboard 📊
+# HR Analytics Dashboard 📊
 
 A **Power BI dashboard** project designed to analyze HR data and gain insights into employee attrition, job satisfaction, and workforce demographics.  
 This project helps organizations take **data-driven decisions** to improve employee retention and performance.  
