@@ -1,4 +1,4 @@
-# HR Analytics Dashboard 📊
+<img width="1330" height="747" alt="image" src="https://github.com/user-attachments/assets/522df722-c7c0-40f9-905d-7422099f0402" /># HR Analytics Dashboard 📊
 
 A **Power BI dashboard** project designed to analyze HR data and gain insights into employee attrition, job satisfaction, and workforce demographics.  
 This project helps organizations take **data-driven decisions** to improve employee retention and performance.  
@@ -30,9 +30,8 @@ This dashboard provides key insights on:
 ---
 
 ## 📸 Dashboard Preview
-(Replace this with your actual screenshot after exporting from Power BI)  
+<img width="1330" height="747" alt="Screenshot 2025-09-13 183813" src="https://github.com/user-attachments/assets/850c503e-7524-42c2-906d-eebda70d052d" />
 
-![Dashboard Preview](dashboard_preview.png)
 
 ---
 
@@ -52,6 +51,6 @@ This dashboard provides key insights on:
 ---
 
 ## 👩‍💻 Author
-Created with ❤️ by **[Your Name]**  
-📧 [Your Email]  
-🔗 [Your LinkedIn / Portfolio Link]
+Created by **Juhi Awasthi**  
+📧 awasthijuhi409@gmail.com
+🔗 https://www.linkedin.com/in/juhi-awasthi-2670a6271
