@@ -51,5 +51,5 @@ This dashboard provides key insights on:
 
 ## 👩‍💻 Author
 Created by **Juhi Awasthi**  
-📧 awasthijuhi409@gmail.com
+📧 awasthijuhi409@gmail.com<br>
 🔗 https://www.linkedin.com/in/juhi-awasthi-2670a6271
